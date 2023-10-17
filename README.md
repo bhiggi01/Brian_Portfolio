@@ -7,6 +7,10 @@ With a current academic average of 84% I am on track to complete my Masters prog
 
 Please click on each Project to link to that repository to see more details.
 
+# Projects Overview:
+## 1. Test adding project: R
+## 2. 
 
-# Proejct 1: Test
+
+# [Project 1: Test adding project](https://github.com/bhiggi01/mtu_1_data8001)
 * R Project
