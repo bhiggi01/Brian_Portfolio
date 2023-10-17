@@ -53,18 +53,22 @@ Give a list of the below projects for a quick review
 * Cats and dogs ?
 * ??
 
-# [7: ](https://github.com/bhiggi01/mtu_2_comp9060_project_2)
-* Comp9060 - Applied Machine Learning - Project 2
-* ??
-* ??
+# [9: ](https://github.com/bhiggi01/mtu_2_data9005_project_1)
+* Data9005 - Data Visualisation & Analytics - Project 1
+* Visualisation
 
-# [7: ](https://github.com/bhiggi01/mtu_2_comp9060_project_2)
-* Comp9060 - Applied Machine Learning - Project 2
-* ??
-* ??
+# [10: ](https://github.com/bhiggi01/mtu_2_data9005_project_2)
+* Data9005 - Data Visualisation & Analytics - Project 2
+* Neural Networks
 
-  # [7: ](https://github.com/bhiggi01/mtu_2_comp9060_project_2)
-* Comp9060 - Applied Machine Learning - Project 2
-* ??
-* ??
+# [11: ](https://github.com/bhiggi01/mtu_2_stat9005)
+* Stat9005 - Time Series
+* Time Series Project
+
+
+
+  # Smaller projects, older, earlier models -  more basic, this learning.
+  * UCD Professional Academy -
+  * Brainstation Bootcamp - 
   
+
