@@ -18,15 +18,24 @@ Please click on each Project to link to that repository to see more details.
 
 # [1: ](https://github.com/bhiggi01/mtu_1_data8001)
 * Data8001 - Data Science and Analytics
+* R
+* *Machine Learning
 
-# [2: ]()
-* Math8009 - Mathematical Methods and Modelling
+# [2: ](https://github.com/bhiggi01/mtu_1_data8002)
+* Data8002 - Data Management Systems
+* - SQL and NoSQL command examples
 
-# [3: ](https://github.com/bhiggi01/mtu_1_data8001)
-* Data8001 - Data Science and Analytics
+# [3: ](https://github.com/bhiggi01/mtu_1_stat8010_project_1)
+* Stat8010 - Introduction to R for Data Science
+* Project 1
 
-# [4: ](https://github.com/bhiggi01/mtu_1_data8001)
-* Data8001 - Data Science and Analytics
+* [4: ](https://github.com/bhiggi01/mtu_1_stat8010_project_2)
+* Stat8010 - Introduction to R for Data Science
+* Project 2
 
-# [5: ](https://github.com/bhiggi01/mtu_1_data8001)
-* Data8001 - Data Science and Analytics
+
+# [5: ]()
+* 
+
+# [6: ]()
+* 
