@@ -52,4 +52,19 @@ Give a list of the below projects for a quick review
 * Comp9060 - Applied Machine Learning - Project 3
 * Cats and dogs ?
 * ??
+
+# [7: ](https://github.com/bhiggi01/mtu_2_comp9060_project_2)
+* Comp9060 - Applied Machine Learning - Project 2
+* ??
+* ??
+
+# [7: ](https://github.com/bhiggi01/mtu_2_comp9060_project_2)
+* Comp9060 - Applied Machine Learning - Project 2
+* ??
+* ??
+
+  # [7: ](https://github.com/bhiggi01/mtu_2_comp9060_project_2)
+* Comp9060 - Applied Machine Learning - Project 2
+* ??
+* ??
   
