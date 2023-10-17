@@ -1,4 +1,6 @@
 # Brian Portfolio
 
-## Introdution:
-Hello and welcome. Below you will find projects I have completed during my Masters in Data Science and Analytics. Under each Project, you will find a description and a link to the code and reports. Please bare in mind that these projects are from an educational perspective but will give you examples of my coding. Overal I have a 84% average so far and am due to complete my masters in Dec 2023. I am currently completing my main project and this proect will be undate over time.  
+## Introduction:
+Hello and thank you for visiting my GitHub Portfolio. Within this repository, I present a selection of my projects that I have undertaken as part of my Masters of Data Science and Analytics. For each project, you will see a description and links to corresponding code and reports. It's important to note that these projects are primarily academic in nature but offer an insight into my coding abilities.
+
+With a current academic average of 84% I am on track to complete my Masters program in December 2023. I am currently completing my main project so this project will be updated several times over the next few weeks.
