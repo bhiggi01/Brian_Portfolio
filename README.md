@@ -40,30 +40,30 @@ Questions/ To do.
 * **Topics:** Core R programming topics including Data exploration and preprocessing, Time Series Analysis, Data Visualization, Feature Engineering, Descriptive Statistics, and Animated Data Visualisation.
 * **Outline:** 
       **Data Import and Cleaning:**
-        - * Read the dataset and create a data frame.
-        - * Perform data cleaning, including handling missing data and removing duplicates.
-        - * Convert the timestamp into a proper time variable that R can understand.
+        - Read the dataset and create a data frame.
+        - Perform data cleaning, including handling missing data and removing duplicates.
+        - Convert the timestamp into a proper time variable that R can understand.
       **Exploratory Data Analysis (EDA):**
-        * Explore the dataset in detail.
-        * Identify relationships between columns.
+        - Explore the dataset in detail.
+        - Identify relationships between columns.
       **Summary Statistics for Batches:**
-        * Calculate summary statistics for each batch, including maximum, minimum, mean, median, and standard deviation of pH.
-        * Determine the initial and final pH values for each batch.
-        * Calculate the duration of each batch.
+        - Calculate summary statistics for each batch, including maximum, minimum, mean, median, and standard deviation of pH.
+        - Determine the initial and final pH values for each batch.
+        - Calculate the duration of each batch.
       **Controlling DO Attribute Analysis:**
-        * Investigate how the Controlling DO attribute changes over time.
-        * Determine the number of times it changes during each batch.
+        - Investigate how the Controlling DO attribute changes over time.
+        - Determine the number of times it changes during each batch.
       **Time Series Analysis:**
-        * Create time series plots for key attributes such as pH, Biomass, Titre, and Controlling DO.
+        - Create time series plots for key attributes such as pH, Biomass, Titre, and Controlling DO.
       **Effect of Batch Number and Media Batch on Titre:**
-        * Visualize the impact of Batch number and Media Batch on Titre.
-        * Provide a discussion of the observed effects.
+        - Visualize the impact of Batch number and Media Batch on Titre.
+        - Provide a discussion of the observed effects.
       **Advanced-Data Visualization:**
-        * Extend the time series plot of Controlling DO to create an animated representation.
-        * Ensure a high frame rate and sufficient duration for the animation.
+        - Extend the time series plot of Controlling DO to create an animated representation.
+        - Ensure a high frame rate and sufficient duration for the animation.
       **Statistical Modeling:**
-        * Use appropriate modeling techniques to analyze the relationship between Titre and other variables.
-        * Clearly state any variables that impact Titre.
+        - Use appropriate modeling techniques to analyze the relationship between Titre and other variables.
+        - Clearly state any variables that impact Titre.
 
 
 <table style"border-collapse: collapse;">
