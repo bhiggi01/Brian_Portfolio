@@ -1,5 +1,7 @@
 # Brian Portfolio
 
+theme:minima
+
 ## Introduction: 
 Hello and thank you for visiting my GitHub Portfolio. Within this repository, I present a selection of my projects that I have undertaken as part of my Masters of Data Science and Analytics. For each project, you will see a description, links to corresponding code and reports and a brief conclusion of the project. It's important to note that these projects are primarily academic in nature but offer an insight into my coding abilities.
 
