@@ -67,8 +67,8 @@ Give a list of the below projects for a quick review
 
 
 
-  # Smaller projects, older, earlier models -  more basic, this learning.
-  * UCD Professional Academy - # [A: ](https://github.com/bhiggi01/UCDPA-BrianHiggins/)
-  * Brainstation Bootcamp -
+  # UCD Professional Academy Course - These were my first
+  * UCD Professional Academy course One- # [A: ](https://github.com/bhiggi01/UCDPA-BrianHiggins/)
+  * UCD Professional Academy course Two - [B:](https://github.com/bhiggi01/UCD2)
   
 
