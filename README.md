@@ -7,71 +7,84 @@ With a current academic average of 84% I am on track to complete my Masters prog
 
 Please click on each Project to link to that repository to see more details.
 
-# Projects Overview:
-Give a list of the below projects for a quick review
+
+# [Project 1: Determine Credit Worthiness of Future Potential Customers](https://github.com/bhiggi01/mtu_1_data8001)
+* Data8001 - Data Science and Analytics (Remvoe this later)
+* Outline: Maeve, a manager at a financial institution has contacted you and asked you to determine the credit worthiness of future customers. She has given you 807 past loan customers with 14 attributes such as financial standing, reason for the loan, employment, years resident in the district, etc with a classification of each case as either good or bad loans. Maeve has asked to find out the following: 
+* Perform EDA to the dataset, 
+* 
+* Programming Language: 
+* Topics: Classification, 
 
 
-# [1: ](https://github.com/bhiggi01/mtu_1_data8001)
-* Data8001 - Data Science and Analytics
-* R
-* Machine Learning
-
-# [2: ](https://github.com/bhiggi01/mtu_1_data8002)
-* Data8002 - Data Management Systems
+# [Project 2: ](https://github.com/bhiggi01/mtu_1_data8002)
+* Data8002 - Data Management Systems (Remvoe this later)
 * SQL and NoSQL command examples
+* Outline:
+* 
+* Programming Language: 
+* Topics:
 
-# [3: ](https://github.com/bhiggi01/mtu_1_stat8010_project_1)
-* Stat8010 - Introduction to R for Data Science
+# [Project 3: ](https://github.com/bhiggi01/mtu_1_stat8010_project_1)
+* Stat8010 - Introduction to R for Data Science (Remvoe this later)
 * Project 1
 * R
+* Outline:
+* 
+* Programming Language: 
+* Topics:
 
-# [4: ](https://github.com/bhiggi01/mtu_1_stat8010_project_2)
-* Stat8010 - Introduction to R for Data Science
+# [Project 4: ](https://github.com/bhiggi01/mtu_1_stat8010_project_2)
+* Stat8010 - Introduction to R for Data Science (Remvoe this later)
 * Project 2
 * M
 * R
 * Monte Carlo Simulation
+* Outline:
+* 
+* Programming Language: 
+* Topics:
 
-# [5: ](https://github.com/bhiggi01/mtu_1_math8009)
-* Math8009 - Mathematical Methods and Modelling
+# [Project 5: ](https://github.com/bhiggi01/mtu_1_math8009)
+* Math8009 - Mathematical Methods and Modelling (Remvoe this later)
 * R
 * Shorter project showing R coding
 * 
 
-# [6: ](https://github.com/bhiggi01/mtu_2_comp9060_project_1)
-* Comp9060 - Applied Machine Learning - Project 1
+# [Project 6: ](https://github.com/bhiggi01/mtu_2_comp9060_project_1)
+* Comp9060 - Applied Machine Learning - Project 1 (Remvoe this later)
 * Ham/Spam
 * ??
 
-# [7: ](https://github.com/bhiggi01/mtu_2_comp9060_project_2)
-* Comp9060 - Applied Machine Learning - Project 2
+# [Project 7: ](https://github.com/bhiggi01/mtu_2_comp9060_project_2)
+* Comp9060 - Applied Machine Learning - Project 2 (Remvoe this later)
 * ??
 * ??
 
-# [8: ](https://github.com/bhiggi01/mtu_2_comp9060_project_3)
-* Comp9060 - Applied Machine Learning - Project 3
+# [Project 8: ](https://github.com/bhiggi01/mtu_2_comp9060_project_3)
+* Comp9060 - Applied Machine Learning - Project 3 (Remvoe this later)
 * Cats and dogs ?
 * ??
 
-# [9: ](https://github.com/bhiggi01/mtu_2_data9005_project_1)
+# [Project 9: ](https://github.com/bhiggi01/mtu_2_data9005_project_1)
 * Data9005 - Data Visualisation & Analytics - Project 1
 * Visualisation
 
-# [10: ](https://github.com/bhiggi01/mtu_2_data9005_project_2)
-* Data9005 - Data Visualisation & Analytics - Project 2
+# [Project 10: ](https://github.com/bhiggi01/mtu_2_data9005_project_2)
+* Data9005 - Data Visualisation & Analytics - Project 2 (Remvoe this later)
 * Neural Networks
 
-# [11: ](https://github.com/bhiggi01/mtu_2_stat9005)
-* Stat9005 - Time Series
+# [Project 11: ](https://github.com/bhiggi01/mtu_2_stat9005)
+* Stat9005 - Time Series (Remvoe this later)
 * Time Series Project
 
 # Current Project - Ongoing
-# [12: ](https://github.com/bhiggi01/mtu_3_9003_capstone)
+# [Project 12: ](https://github.com/bhiggi01/mtu_3_9003_capstone)
 
 
 
-# UCD Professional Academy Course - These were my first
-* UCD Professional Academy course One- # [A: ](https://github.com/bhiggi01/UCDPA-BrianHiggins/)
-* UCD Professional Academy course Two - [B:](https://github.com/bhiggi01/UCD2)
+# UCD Professional Academy Course - 
+## [Project: UCD  ](https://github.com/bhiggi01/UCDPA-BrianHiggins/)
+## [Project: UCD ](https://github.com/bhiggi01/UCD2)
   
 
