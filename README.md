@@ -1,7 +1,7 @@
 # Brian Portfolio
 
 ## Introduction:
-Hello and thank you for visiting my GitHub Portfolio. Within this repository, I present a selection of my projects that I have undertaken as part of my Masters of Data Science and Analytics. For each project, you will see a description and links to corresponding code and reports. It's important to note that these projects are primarily academic in nature but offer an insight into my coding abilities.
+Hello and thank you for visiting my GitHub Portfolio. Within this repository, I present a selection of my projects that I have undertaken as part of my Masters of Data Science and Analytics. For each project, you will see a description, links to corresponding code and reports and a brief conclusion of the project. It's important to note that these projects are primarily academic in nature but offer an insight into my coding abilities.
 
 With a current academic average of 84% I am on track to complete my Masters program in December 2023. I am currently completing my main project so this project will be updated several times over the next few weeks.
 
@@ -10,11 +10,15 @@ Please click on each Project to link to that repository to see more details.
 
 # [Project 1: Determine Credit Worthiness of Future Potential Customers](https://github.com/bhiggi01/mtu_1_data8001)
 * Data8001 - Data Science and Analytics (Remvoe this later)
-* Outline: Maeve, a manager at a financial institution has contacted you and asked you to determine the credit worthiness of future customers. She has given you 807 past loan customers with 14 attributes such as financial standing, reason for the loan, employment, years resident in the district, etc with a classification of each case as either good or bad loans. Maeve has asked to find out the following: 
-* Perform EDA to the dataset, 
-* 
-* Programming Language: 
-* Topics: Classification, 
+* **Outline:** Maeve, a manager at a financial institution has contacted you and asked you to determine the credit worthiness of future customers. She has given you 807 past loan customers with 14 attributes such as financial standing, reason for the loan, employment, years resident in the district, etc with a classification of each case as either good or bad loans. 
+* **Tasks:** Perform EDA to the dataset, determine which attribute is the most important root node and Explore Entropy and Information manually with different methods.
+* **Brief Conclusion:** Manually creating binary splits limits a model's performance. Running a Decision Tree on a manual split gets an accuracy of 60% whereas running a Decision Tree on the raw data improves a model's performance to 73%. Using Random Forest Models improved the accuracy to 82%. Maeve was interested in finding out which of the attributes had the most impact and this was credit history.
+
+
+
+  
+* **Programming Language:** R
+* **Topics:** Classification, Decision Trees, Random Forrest, Entropy, Information Gain
 
 
 # [Project 2: ](https://github.com/bhiggi01/mtu_1_data8002)
