@@ -1,6 +1,8 @@
 # Add a theme to the portfolio.
-theme: Jekyll-theme-cayman
+theme: Jekyll-theme-slate
 
 # List of themes to try:
 # minima -  basic but ok
 # cayman - No
+# hacker -  No, too dark
+# slate - Dark but might be ok.
