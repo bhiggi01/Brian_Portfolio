@@ -31,7 +31,6 @@ Test 8: go back a step
 
 
 
-
 # [Project 2: ](https://github.com/bhiggi01/mtu_1_data8002)
 * Data8002 - Data Management Systems (Remvoe this later)
 * SQL and NoSQL command examples
