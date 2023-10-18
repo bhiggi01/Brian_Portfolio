@@ -47,23 +47,23 @@ Please click on each Project to link to that repository to see more details.
 
 
 
-
 # [Project 2: ](https://github.com/bhiggi01/mtu_1_data8002)
 * Data8002 - Data Management Systems (Remvoe this later)
 * SQL and NoSQL command examples
-* Outline:
-* 
-* Programming Language: 
-* Topics:
+
+* **Programming Language:** 
+* **Topics:**
+* **Outline:**
+* **Brief Conclusion:**
 
 # [Project 3: ](https://github.com/bhiggi01/mtu_1_stat8010_project_1)
 * Stat8010 - Introduction to R for Data Science (Remvoe this later)
 * Project 1
-* R
-* Outline:
-* 
-* Programming Language: 
-* Topics:
+
+* **Programming Language:** 
+* **Topics:**
+* **Outline:**
+* **Brief Conclusion:**
 
 # [Project 4: ](https://github.com/bhiggi01/mtu_1_stat8010_project_2)
 * Stat8010 - Introduction to R for Data Science (Remvoe this later)
@@ -71,26 +71,41 @@ Please click on each Project to link to that repository to see more details.
 * M
 * R
 * Monte Carlo Simulation
-* Outline:
-* 
-* Programming Language: 
-* Topics:
+
+* **Programming Language:** 
+* **Topics:**
+* **Outline:**
+* **Brief Conclusion:**
 
 # [Project 5: ](https://github.com/bhiggi01/mtu_1_math8009)
 * Math8009 - Mathematical Methods and Modelling (Remvoe this later)
 * R
 * Shorter project showing R coding
-* 
+
+* **Programming Language:** 
+* **Topics:**
+* **Outline:**
+* **Brief Conclusion:**
 
 # [Project 6: ](https://github.com/bhiggi01/mtu_2_comp9060_project_1)
 * Comp9060 - Applied Machine Learning - Project 1 (Remvoe this later)
 * Ham/Spam
 * ??
 
+* **Programming Language:** 
+* **Topics:**
+* **Outline:**
+* **Brief Conclusion:**
+
 # [Project 7: ](https://github.com/bhiggi01/mtu_2_comp9060_project_2)
 * Comp9060 - Applied Machine Learning - Project 2 (Remvoe this later)
 * ??
 * ??
+
+* **Programming Language:** 
+* **Topics:**
+* **Outline:**
+* **Brief Conclusion:**
 
 # [Project 8: ](https://github.com/bhiggi01/mtu_2_comp9060_project_3)
 * Comp9060 - Applied Machine Learning - Project 3 (Remvoe this later)
