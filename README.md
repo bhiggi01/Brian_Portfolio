@@ -24,18 +24,13 @@ With a current academic average of 84% I am on track to complete my Masters prog
   </tr>
 </table>
 
-
-
-# [Project 2: ](https://github.com/bhiggi01/mtu_1_data8002)
+# [Project 2: Various SQL and NoSQL Queries](https://github.com/bhiggi01/mtu_1_data8002)
 * Data8002 - Data Management Systems (Remvoe this later)
-* SQL and NoSQL command examples
+* **Programming Language:** SQL, MongoDB, Python
+* **Topics:** SQL and NoSQL commands with MongoDB
+* **Outline:** Examples of the use of SQL and NoSQL queries with MongoDB to show some examples of usage on University Courses.
 
-* **Programming Language:** 
-* **Topics:**
-* **Outline:**
-* **Brief Conclusion:**
-
-# [Project 3: ](https://github.com/bhiggi01/mtu_1_stat8010_project_1)
+# [Project 3: R project exploring ](https://github.com/bhiggi01/mtu_1_stat8010_project_1)
 * Stat8010 - Introduction to R for Data Science (Remvoe this later)
 * Project 1
 
