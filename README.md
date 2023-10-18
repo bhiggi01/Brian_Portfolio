@@ -25,21 +25,6 @@ Please click on each Project to link to that repository to see more details.
   </tr>
 </table>
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; text-align: center;">
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-    <img src="images/Data8001%20-%20Basic%20EDA.jpg" alt="Basic EDA">
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-    <img src="images/Data8001%20-%20Count%20of%20Good%20and%20Bad%20credit%20ratings.jpg" alt="Count of Good and Bad credit ratings">
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-    <img src="images/Data8001%20-%20Entropy%20and%20Information%20Gain%20Results.jpg" alt="Entropy and Information Gain Results">
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-    <img src="images/Data8001%20-%20image%20of%20DT%20on%20manual%20binary%20predictions.jpg" alt="Decision Tree on Manual Binary Predictions">
-  </div>
-</div>
-  
 * **Programming Language:** R
 * **Topics:** Classification, Decision Trees, Random Forrest, Entropy, Information Gain
 
