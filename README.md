@@ -11,9 +11,9 @@ Questions/ To do.
 
 # [Project 1: Determine Credit Worthiness of Future Potential Customers](https://github.com/bhiggi01/mtu_1_data8001)
 * Data8001 - Data Science and Analytics (Remvoe this later)
-* **Programming Language:** R
-* **Topics:** Classification, Decision Trees, Random Forrest, Entropy, Information Gain
-* **Outline:** Maeve, a manager at a financial institution has contacted you and asked you to determine the credit worthiness of future customers. She has given you 807 past loan customers with 14 attributes such as financial standing, reason for the loan, employment, years resident in the district, etc with a classification of each case as either good or bad loans. Perform EDA to the dataset, determine which attribute is the most important root node and Explore Entropy and Information manually with different methods.
+## **Programming Language:** R
+## **Topics:** Classification, Decision Trees, Random Forrest, Entropy, Information Gain
+## **Outline:** Maeve, a manager at a financial institution has contacted you and asked you to determine the credit worthiness of future customers. She has given you 807 past loan customers with 14 attributes such as financial standing, reason for the loan, employment, years resident in the district, etc with a classification of each case as either good or bad loans. Perform EDA to the dataset, determine which attribute is the most important root node and Explore Entropy and Information manually with different methods.
 
 <table style="border-collapse: collapse;">
   <tr>
