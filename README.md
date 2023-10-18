@@ -5,6 +5,8 @@ Hello and thank you for visiting my GitHub Portfolio. Within this repository, I 
 
 With a current academic average of 84% I am on track to complete my Masters program in December 2023. I am currently completing my main project so this project will be updated several times over the next few weeks.
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 # [Project 1: Determine Credit Worthiness of Future Potential Customers](https://github.com/bhiggi01/mtu_1_data8001)
 * Data8001 - Data Science and Analytics (Remvoe this later)
 * **Programming Language:** R
@@ -32,12 +34,16 @@ With a current academic average of 84% I am on track to complete my Masters prog
 * **Topics:** SQL and NoSQL commands with MongoDB
 * **Outline:** Examples of the use of SQL and NoSQL queries with MongoDB to show some examples of usage on University Courses.
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 # [Project 3: R project exploring PH levels in different batches in a manufacturing process ](https://github.com/bhiggi01/mtu_1_stat8010_project_1)
 * Stat8010 - Introduction to R for Data Science (Remvoe this later)
 * **Programming Language:** R
 * **Topics:** Core R programming topics
 * **Outline:**
 * **Brief Conclusion:**
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 # [Project 4: ](https://github.com/bhiggi01/mtu_1_stat8010_project_2)
 * Stat8010 - Introduction to R for Data Science (Remvoe this later)
@@ -46,10 +52,14 @@ With a current academic average of 84% I am on track to complete my Masters prog
 * R
 * Monte Carlo Simulation
 
+
+
 * **Programming Language:** 
 * **Topics:**
 * **Outline:**
 * **Brief Conclusion:**
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 # [Project 5: ](https://github.com/bhiggi01/mtu_1_math8009)
 * Math8009 - Mathematical Methods and Modelling (Remvoe this later)
@@ -61,6 +71,8 @@ With a current academic average of 84% I am on track to complete my Masters prog
 * **Outline:**
 * **Brief Conclusion:**
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 # [Project 6: ](https://github.com/bhiggi01/mtu_2_comp9060_project_1)
 * Comp9060 - Applied Machine Learning - Project 1 (Remvoe this later)
 * Ham/Spam
@@ -70,6 +82,8 @@ With a current academic average of 84% I am on track to complete my Masters prog
 * **Topics:**
 * **Outline:**
 * **Brief Conclusion:**
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 # [Project 7: ](https://github.com/bhiggi01/mtu_2_comp9060_project_2)
 * Comp9060 - Applied Machine Learning - Project 2 (Remvoe this later)
@@ -81,6 +95,8 @@ With a current academic average of 84% I am on track to complete my Masters prog
 * **Outline:**
 * **Brief Conclusion:**
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 # [Project 8: ](https://github.com/bhiggi01/mtu_2_comp9060_project_3)
 * Comp9060 - Applied Machine Learning - Project 3 (Remvoe this later)
 * Cats and dogs ?
@@ -90,18 +106,25 @@ With a current academic average of 84% I am on track to complete my Masters prog
 * Data9005 - Data Visualisation & Analytics - Project 1
 * Visualisation
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 # [Project 10: ](https://github.com/bhiggi01/mtu_2_data9005_project_2)
 * Data9005 - Data Visualisation & Analytics - Project 2 (Remvoe this later)
 * Neural Networks
+* 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 # [Project 11: ](https://github.com/bhiggi01/mtu_2_stat9005)
 * Stat9005 - Time Series (Remvoe this later)
 * Time Series Project
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 # Current Project - Ongoing
 # [Project 12: ](https://github.com/bhiggi01/mtu_3_9003_capstone)
 
-
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 # UCD Professional Academy Course - 
 ## [Project: UCD  ](https://github.com/bhiggi01/UCDPA-BrianHiggins/)
