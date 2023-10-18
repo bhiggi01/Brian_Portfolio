@@ -24,6 +24,8 @@ With a current academic average of 84% I am on track to complete my Masters prog
   </tr>
 </table>
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 # [Project 2: Various SQL and NoSQL Queries](https://github.com/bhiggi01/mtu_1_data8002)
 * Data8002 - Data Management Systems (Remove this later)
 * **Programming Language:** SQL, MongoDB, Python
