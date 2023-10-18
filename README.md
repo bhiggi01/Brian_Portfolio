@@ -27,7 +27,7 @@ Test 8: go back a step
     <td style="text-align: center; background-color: white;"><img src="images/Data8001%20-%20Entropy%20and%20Information%20Gain%20Results.jpg" alt="Entropy and Information Gain Results"></td>
     <td style="text-align: center; background-color: white;"><img src="images/Data8001%20-%20image%20of%20DT%20on%20manual%20binary%20predications.jpg" alt="Binary Attribute Root Predications"></td>
   </tr>
-</table>![image](https://github.com/bhiggi01/Brian_Portfolio/assets/91491201/cba5989c-20c2-403a-980e-b68e864cc603)
+</table>
 
 
 
