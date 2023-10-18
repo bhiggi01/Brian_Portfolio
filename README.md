@@ -48,9 +48,8 @@ With a current academic average of 84% I am on track to complete my Masters prog
   </tr>
 </table>
 
+
 * **Brief Conclusion:**
-
-
 
 # [Project 4: ](https://github.com/bhiggi01/mtu_1_stat8010_project_2)
 * Stat8010 - Introduction to R for Data Science (Remvoe this later)
