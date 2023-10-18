@@ -16,18 +16,19 @@ Please click on each Project to link to that repository to see more details.
 * **Tasks:** Perform EDA to the dataset, determine which attribute is the most important root node and Explore Entropy and Information manually with different methods.
 * **Brief Conclusion:** Manually creating binary splits limits a model's performance. Running a Decision Tree on a manual split gets an accuracy of 60% whereas running a Decision Tree on the raw data improves a model's performance to 73%. Using Random Forest Models improved the accuracy to 82%. Maeve was interested in finding out which of the attributes had the most impact and this was credit history.
 
-Test 2: fix grey background
+Test 3: try an invisible backgorund
 
 <table>
   <tr>
-    <td style="text-align: center; background-color: white;"><img src="images/Data8001%20-%20Basic%20EDA.jpg" alt="Image 1"></td>
-    <td style="text-align: center; background-color: white;"><img src="images/Data8001%20-%20Count%20of%20Good%20and%20Bad%20credit%20ratings.jpg" alt="Image 2"></td>
+    <td style="text-align: center; background-color: transparent;"><img src="images/Data8001%20-%20Basic%20EDA.jpg" alt="Image 1"></td>
+    <td style="text-align: center; background-color: transparent;"><img src="images/Data8001%20-%20Count%20of%20Good%20and%20Bad%20credit%20ratings.jpg" alt="Image 2"></td>
   </tr>
   <tr>
-    <td style="text-align: center; background-color: white;"><img src="images/Data8001%20-%20Entropy%20and%20Information%20Gain%20Results.jpg" alt="Image 3"></td>
-    <td style="text-align: center; background-color: white;"><img src="images/Data8001%20-%20image%20of%20DT%20on%20manual%20binary%20predications.jpg" alt="Image 4"></td>
+    <td style="text-align: center; background-color: transparent;"><img src="images/Data8001%20-%20Entropy%20and%20Information%20Gain%20Results.jpg" alt="Image 3"></td>
+    <td style="text-align: center; background-color: transparent;"><img src="images/Data8001%20-%20image%20of%20DT%20on%20manual%20binary%20predications.jpg" alt="Image 4"></td>
   </tr>
 </table>
+
 
 
 
