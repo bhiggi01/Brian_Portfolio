@@ -16,12 +16,19 @@ Please click on each Project to link to that repository to see more details.
 * **Tasks:** Perform EDA to the dataset, determine which attribute is the most important root node and Explore Entropy and Information manually with different methods.
 * **Brief Conclusion:** Manually creating binary splits limits a model's performance. Running a Decision Tree on a manual split gets an accuracy of 60% whereas running a Decision Tree on the raw data improves a model's performance to 73%. Using Random Forest Models improved the accuracy to 82%. Maeve was interested in finding out which of the attributes had the most impact and this was credit history.
 
-Test 7: alternative way to add images
+Test 8: go back a step
 
-|               |               |
-|:-------------:|:-------------:|
-| ![Image 1](images/Data8001%20-%20Basic%20EDA.jpg) | ![Image 2](images/Data8001%20-%20Count%20of%20Good%20and%20Bad%20credit%20ratings.jpg) |
-| ![Image 3](images/Data8001%20-%20Entropy%20and%20Information%20Gain%20Results.jpg) | ![Image 4](images/Data8001%20-%20image%20of%20DT%20on%20manual%20binary%20predications.jpg) |
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="text-align: center; background-color: white;"><img src="images/Data8001%20-%20Basic%20EDA.jpg" alt="Basic EDA"></td>
+    <td style="text-align: center; background-color: white;"><img src="images/Data8001%20-%20Count%20of%20Good%20and%20Bad%20credit%20ratings.jpg" alt="Count of Good and Bad Ratings"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center; background-color: white;"><img src="images/Data8001%20-%20Entropy%20and%20Information%20Gain%20Results.jpg" alt="Entropy and Information Gain Results"></td>
+    <td style="text-align: center; background-color: white;"><img src="images/Data8001%20-%20image%20of%20DT%20on%20manual%20binary%20predications.jpg" alt="Binary Attribute Root Predications"></td>
+  </tr>
+</table>![image](https://github.com/bhiggi01/Brian_Portfolio/assets/91491201/cba5989c-20c2-403a-980e-b68e864cc603)
+
 
 
 
