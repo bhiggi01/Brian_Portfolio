@@ -1,4 +1,6 @@
 # Add a theme to the portfolio.
-theme: Jekyll-theme-cayman
+theme: Jekyll-theme-minima
 
 # List of themes to try:
+# minima -  basic but ok
+# cayman - No
