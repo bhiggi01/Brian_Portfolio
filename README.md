@@ -16,14 +16,16 @@ Please click on each Project to link to that repository to see more details.
 
 <table>
   <tr>
-    <td><img src="images/Data8001%20-%20Basic%20EDA.jpg" alt="EDA" align="center"></td>
-    <td><img src="images/Data8001%20-%20Count%20of%20Good%20and%20Bad%20credit%20ratings.jpg" alt="Credit Ratings Count" align="center"></td>
+    <td><img src="images/Data8001%20-%20Basic%20EDA.jpg" align="center"></td>
+    <td><img src="images/Data8001%20-%20Count%20of%20Good%20and%20Bad%20credit%20ratings.jpg" align="center"></td>
   </tr>
   <tr>
-    <td><img src="images/Data8001%20-%20Entropy%20and%20Information%20Gain%20Results.jpg" alt="Entropy and Information Gain" align="center"></td>
-    <td><img src="images/Data8001%20-%20image%20of%20DT%20on%20manual%20binary%20predications.jpg" alt="Root Attribute" align="center"></td>
+    <td><img src="images/Data8001%20-%20Entropy%20and%20Information%20Gain%20Results.jpg" alt="Image 3" align="center"></td>
+    <td><img src="images/Data8001%20-%20image%20of%20DT%20on%20manual%20binary%20predications.jpg" alt="Image 4" align="center"></td>
   </tr>
 </table>
+
+
 
 
 * **Programming Language:** R
