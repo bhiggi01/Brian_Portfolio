@@ -65,10 +65,13 @@ Give a list of the below projects for a quick review
 * Stat9005 - Time Series
 * Time Series Project
 
+# Current Project - Ongoing
+# [12: ](https://github.com/bhiggi01/mtu_3_9003_capstone)
 
 
-  # UCD Professional Academy Course - These were my first
-  * UCD Professional Academy course One- # [A: ](https://github.com/bhiggi01/UCDPA-BrianHiggins/)
-  * UCD Professional Academy course Two - [B:](https://github.com/bhiggi01/UCD2)
+
+# UCD Professional Academy Course - These were my first
+* UCD Professional Academy course One- # [A: ](https://github.com/bhiggi01/UCDPA-BrianHiggins/)
+* UCD Professional Academy course Two - [B:](https://github.com/bhiggi01/UCD2)
   
 
