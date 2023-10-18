@@ -14,7 +14,7 @@ Please click on each Project to link to that repository to see more details.
 * **Tasks:** Perform EDA to the dataset, determine which attribute is the most important root node and Explore Entropy and Information manually with different methods.
 * **Brief Conclusion:** Manually creating binary splits limits a model's performance. Running a Decision Tree on a manual split gets an accuracy of 60% whereas running a Decision Tree on the raw data improves a model's performance to 73%. Using Random Forest Models improved the accuracy to 82%. Maeve was interested in finding out which of the attributes had the most impact and this was credit history.
 
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/bhiggi01/Brian_Portfolio/blob/main/images/Data8001%20-%20DT%20binary%20split.jpg) "Logo Title Text 1")
+![alt text](images/Data8001%20-%20DT%20binary%20split.jpg) "Logo Title Text 1")
 
 
 
