@@ -5,15 +5,12 @@ Hello and thank you for visiting my GitHub Portfolio. Within this repository, I 
 
 With a current academic average of 84% I am on track to complete my Masters program in December 2023. I am currently completing my main project so this project will be updated several times over the next few weeks.
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
 # [Project 1: Determine Credit Worthiness of Future Potential Customers](https://github.com/bhiggi01/mtu_1_data8001)
 * Data8001 - Data Science and Analytics (Remvoe this later)
 * **Programming Language:** R
 * **Topics:** Classification, Decision Trees, Random Forrest, Entropy, Information Gain
 * **Outline:** Maeve, a manager at a financial institution has contacted you and asked you to determine the credit worthiness of future customers. She has given you 807 past loan customers with 14 attributes such as financial standing, reason for the loan, employment, years resident in the district, etc with a classification of each case as either good or bad loans. 
 * Perform EDA to the dataset, determine which attribute is the most important root node and Explore Entropy and Information manually with different methods.
-* **Brief Conclusion:** Manually creating binary splits limits a model's performance. Running a Decision Tree on a manual split gets an accuracy of 60% whereas running a Decision Tree on the raw data improves a model's performance to 73%. Using Random Forest Models improved the accuracy to 82%. Maeve was interested in finding out which of the attributes had the most impact and this was credit history.
 
 <table style="border-collapse: collapse;">
   <tr>
@@ -26,7 +23,7 @@ With a current academic average of 84% I am on track to complete my Masters prog
   </tr>
 </table>
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+* **Brief Conclusion:** Manually creating binary splits limits a model's performance. Running a Decision Tree on a manual split gets an accuracy of 60% whereas running a Decision Tree on the raw data improves a model's performance to 73%. Using Random Forest Models improved the accuracy to 82%. Maeve was interested in finding out which of the attributes had the most impact and this was credit history.
 
 # [Project 2: Various SQL and NoSQL Queries](https://github.com/bhiggi01/mtu_1_data8002)
 * Data8002 - Data Management Systems (Remove this later)
@@ -34,16 +31,26 @@ With a current academic average of 84% I am on track to complete my Masters prog
 * **Topics:** SQL and NoSQL commands with MongoDB
 * **Outline:** Examples of the use of SQL and NoSQL queries with MongoDB to show some examples of usage on University Courses.
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-# [Project 3: R project exploring PH levels in different batches in a manufacturing process ](https://github.com/bhiggi01/mtu_1_stat8010_project_1)
+# [Project 3: Exploring PH levels in different batches of a manufacturing process ](https://github.com/bhiggi01/mtu_1_stat8010_project_1)
 * Stat8010 - Introduction to R for Data Science (Remvoe this later)
 * **Programming Language:** R
-* **Topics:** Core R programming topics
-* **Outline:**
+* **Topics:** Core R programming topics including Data exploration and preprocessing, Time Series Analysis, Data Visualization, Feature Engineering, Descriptive Statistics, and Animated Data Visualisation.
+* **Outline:** Read in the data and create a data frame with the data. Explore the data in detail with EDA and preprocessing by looking at missing data, and duplicate values, convert timestamp into time variable. Explore which columns are related, Perform Summary statistics for the batches and investigate how the Controlling Do attribute changes over time. Make tables to show the summary statistics for each batch. Create time series plots for the attributes. Create visualisations for the effect of Batch number and media batch on Titre.
+
+<table style"border-collapse: collapse;">
+  <tr>
+    <td style="text-align: center; background-color: white;"><img src="images/stat8010_1%20-%20summary%20statistics.jpg" alt="Summary Statistics"></td>
+    <td style="text-align: center; background-color: white;"><img src="images/stat8010_1%20-%20Scatter%20plot%20of%20Titre%20and%20Biomass.jpg" alt="Scatter Plot of Titre over Biomass"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center; background-color: white;"><img src="images/stat8010_1%20-%20Plot%20of%20the%20controlling%20Do%20Periods.jpg" alt="Plot of controlling DO periods"></td>
+    <td style="text-align: center; background-color: white;"><img src="images/stat8010_1%20-%20Time%20Series%20of%20Biomass.jpg" alt="Time Series of Biomass attribute"></td>
+  </tr>
+</table>
+
 * **Brief Conclusion:**
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 # [Project 4: ](https://github.com/bhiggi01/mtu_1_stat8010_project_2)
 * Stat8010 - Introduction to R for Data Science (Remvoe this later)
@@ -59,7 +66,7 @@ With a current academic average of 84% I am on track to complete my Masters prog
 * **Outline:**
 * **Brief Conclusion:**
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 # [Project 5: ](https://github.com/bhiggi01/mtu_1_math8009)
 * Math8009 - Mathematical Methods and Modelling (Remvoe this later)
@@ -71,7 +78,7 @@ With a current academic average of 84% I am on track to complete my Masters prog
 * **Outline:**
 * **Brief Conclusion:**
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 # [Project 6: ](https://github.com/bhiggi01/mtu_2_comp9060_project_1)
 * Comp9060 - Applied Machine Learning - Project 1 (Remvoe this later)
@@ -83,7 +90,7 @@ With a current academic average of 84% I am on track to complete my Masters prog
 * **Outline:**
 * **Brief Conclusion:**
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 # [Project 7: ](https://github.com/bhiggi01/mtu_2_comp9060_project_2)
 * Comp9060 - Applied Machine Learning - Project 2 (Remvoe this later)
@@ -95,7 +102,7 @@ With a current academic average of 84% I am on track to complete my Masters prog
 * **Outline:**
 * **Brief Conclusion:**
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 # [Project 8: ](https://github.com/bhiggi01/mtu_2_comp9060_project_3)
 * Comp9060 - Applied Machine Learning - Project 3 (Remvoe this later)
@@ -106,25 +113,25 @@ With a current academic average of 84% I am on track to complete my Masters prog
 * Data9005 - Data Visualisation & Analytics - Project 1
 * Visualisation
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 # [Project 10: ](https://github.com/bhiggi01/mtu_2_data9005_project_2)
 * Data9005 - Data Visualisation & Analytics - Project 2 (Remvoe this later)
 * Neural Networks
-* 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+  
+
 
 
 # [Project 11: ](https://github.com/bhiggi01/mtu_2_stat9005)
 * Stat9005 - Time Series (Remvoe this later)
 * Time Series Project
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 # Current Project - Ongoing
 # [Project 12: ](https://github.com/bhiggi01/mtu_3_9003_capstone)
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 # UCD Professional Academy Course - 
 ## [Project: UCD  ](https://github.com/bhiggi01/UCDPA-BrianHiggins/)
