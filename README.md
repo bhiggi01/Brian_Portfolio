@@ -35,7 +35,33 @@ With a current academic average of 84% I am on track to complete my Masters prog
 * Stat8010 - Introduction to R for Data Science (Remvoe this later)
 * **Programming Language:** R
 * **Topics:** Core R programming topics including Data exploration and preprocessing, Time Series Analysis, Data Visualization, Feature Engineering, Descriptive Statistics, and Animated Data Visualisation.
-* **Outline:** Read in the data and create a data frame with the data. Explore the data in detail with EDA and preprocessing by looking at missing data, and duplicate values, convert timestamp into time variable. Explore which columns are related, Perform Summary statistics for the batches and investigate how the Controlling Do attribute changes over time. Make tables to show the summary statistics for each batch. Create time series plots for the attributes. Create visualisations for the effect of Batch number and media batch on Titre.
+* **Outline:** 
+      **Data Import and Cleaning:**
+        * Read the dataset and create a data frame.
+        * Perform data cleaning, including handling missing data and removing duplicates.
+        * Convert the timestamp into a proper time variable that R can understand.
+      **Exploratory Data Analysis (EDA):**
+        * Explore the dataset in detail.
+        * Identify relationships between columns.
+      **Summary Statistics for Batches:**
+        * Calculate summary statistics for each batch, including maximum, minimum, mean, median, and standard deviation of pH.
+Determine the initial and final pH values for each batch.
+Calculate the duration of each batch.
+Controlling DO Attribute Analysis:
+Investigate how the Controlling DO attribute changes over time.
+Determine the number of times it changes during each batch.
+Time Series Analysis:
+Create time series plots for key attributes such as pH, Biomass, Titre, and Controlling DO.
+Effect of Batch Number and Media Batch on Titre:
+Visualize the impact of Batch number and Media Batch on Titre.
+Provide a discussion of the observed effects.
+Advanced Data Visualization:
+Extend the time series plot of Controlling DO to create an animated representation.
+Ensure a high frame rate and sufficient duration for the animation.
+Statistical Modeling:
+Use appropriate modeling techniques to analyze the relationship between Titre and other variables.
+Clearly state any variables that impact Titre.
+
 
 <table style"border-collapse: collapse;">
   <tr>
@@ -49,7 +75,7 @@ With a current academic average of 84% I am on track to complete my Masters prog
 </table>
 
 
-* **Brief Conclusion:**
+* **Brief Conclusion:** The project was mainly to explore R and the full report and R code shows a large amount of work. However, I can not give a detailed explanation of the manfurascting process as I am not a domain expert. However, we can see some things, 
 
 # [Project 4: ](https://github.com/bhiggi01/mtu_1_stat8010_project_2)
 * Stat8010 - Introduction to R for Data Science (Remvoe this later)
