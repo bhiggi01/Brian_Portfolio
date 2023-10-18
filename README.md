@@ -38,7 +38,7 @@ Questions/ To do.
 * Stat8010 - Introduction to R for Data Science (Remvoe this later)
 * **Programming Language:** R
 * **Topics:** Core R programming topics including Data exploration and preprocessing, Time Series Analysis, Data Visualization, Feature Engineering, Descriptive Statistics, and Animated Data Visualisation.
-* **Outline:** 
+## Outline: 
       ### Data Import and Cleaning:
         - Read the dataset and create a data frame.
         - Perform data cleaning, including handling missing data and removing duplicates.
