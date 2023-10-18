@@ -5,6 +5,10 @@ Hello and thank you for visiting my GitHub Portfolio. Within this repository, I 
 
 With a current academic average of 84% I am on track to complete my Masters program in December 2023. I am currently completing my main project so this project will be updated several times over the next few weeks.
 
+Questions/ To do.
+1. Fix the size of the images and add labels so I can refer to in the conclusion.
+2. Is the outline in Project 1 or Project 3 better?
+
 # [Project 1: Determine Credit Worthiness of Future Potential Customers](https://github.com/bhiggi01/mtu_1_data8001)
 * Data8001 - Data Science and Analytics (Remvoe this later)
 * **Programming Language:** R
@@ -45,22 +49,22 @@ With a current academic average of 84% I am on track to complete my Masters prog
         * Identify relationships between columns.
       **Summary Statistics for Batches:**
         * Calculate summary statistics for each batch, including maximum, minimum, mean, median, and standard deviation of pH.
-Determine the initial and final pH values for each batch.
-Calculate the duration of each batch.
-Controlling DO Attribute Analysis:
-Investigate how the Controlling DO attribute changes over time.
-Determine the number of times it changes during each batch.
-Time Series Analysis:
-Create time series plots for key attributes such as pH, Biomass, Titre, and Controlling DO.
-Effect of Batch Number and Media Batch on Titre:
-Visualize the impact of Batch number and Media Batch on Titre.
-Provide a discussion of the observed effects.
-Advanced Data Visualization:
-Extend the time series plot of Controlling DO to create an animated representation.
-Ensure a high frame rate and sufficient duration for the animation.
-Statistical Modeling:
-Use appropriate modeling techniques to analyze the relationship between Titre and other variables.
-Clearly state any variables that impact Titre.
+        * Determine the initial and final pH values for each batch.
+        * Calculate the duration of each batch.
+      **Controlling DO Attribute Analysis:**
+        * Investigate how the Controlling DO attribute changes over time.
+        * Determine the number of times it changes during each batch.
+      **Time Series Analysis:**
+        * Create time series plots for key attributes such as pH, Biomass, Titre, and Controlling DO.
+      **Effect of Batch Number and Media Batch on Titre:**
+        * Visualize the impact of Batch number and Media Batch on Titre.
+        * Provide a discussion of the observed effects.
+      **Advanced-Data Visualization:**
+        * Extend the time series plot of Controlling DO to create an animated representation.
+        * Ensure a high frame rate and sufficient duration for the animation.
+      **Statistical Modeling:**
+        * Use appropriate modeling techniques to analyze the relationship between Titre and other variables.
+        * Clearly state any variables that impact Titre.
 
 
 <table style"border-collapse: collapse;">
