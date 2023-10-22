@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forecasting. R on Brian Higgins Portfolio</title>
+    <link>https://gohugo-theme-ananke.pages.dev/tags/forecasting.-r/</link>
+    <description>Recent content in Forecasting. R on Brian Higgins Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 May 2023 11:13:32 -0400</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/tags/forecasting.-r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COVID-19 Time Series Data: Trends, Components, and Forecasting Models</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/project-11/</link>
+      <pubDate>Mon, 01 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/project-11/</guid>
+      <description>Outline: In this project, we aim to analyze COVID-19 time series data from a range of countries, focusing on a specific variable. We&amp;rsquo;ll start with data preparation, including cleaning and transforming the data. Then, a preliminary analysis will involve exploring data patterns, decomposing time series components, and addressing seasonality. Moving on, we&amp;rsquo;ll delve into time series modeling, encompassing classical methods like exponential smoothing and advanced ARIMA modeling. This includes assessing stationarity and model selection.</description>
+    </item>
+    
+  </channel>
+</rss>
