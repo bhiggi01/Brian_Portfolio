@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entropy on Brian Higgins Portfolio</title>
+    <link>https://gohugo-theme-ananke.pages.dev/tags/entropy/</link>
+    <description>Recent content in Entropy on Brian Higgins Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Oct 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/tags/entropy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Financial Data Analysis for Loan Approval </title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/project-3/</link>
+      <pubDate>Tue, 18 Oct 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/project-3/</guid>
+      <description>Outline: Maeve, a manager at a financial institution has contacted us and asked to determine the credit worthiness of future customers for loans. She has given us 807 past loan customers with 14 attributes such as financial standing, reason for the loan, employment, years resident in the district, etc with a classification of each case as either good or bad loans. Perform EDA to the dataset, determine which attribute is the most important root node and Explore Entropy and Information manually with different methods.</description>
+    </item>
+    
+  </channel>
+</rss>
