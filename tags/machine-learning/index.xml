@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Brian Higgins Portfolio</title>
+    <link>https://bhiggi01.github.io/Brian_Portfolio/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Brian Higgins Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Oct 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://bhiggi01.github.io/Brian_Portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Current Project: Final Project Of Masters of Data Science and Data Analytics</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/post/project-14/</link>
+      <pubDate>Thu, 19 Oct 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/post/project-14/</guid>
+      <description>Progress: This is my ongoing final project for my Masters in Data Science and Analytics with MTU. At this point I have completed tasks related to data cleaning, organization, preprocessing and exploratory data analysis. I will update later with my next stage, which is modelling.
+Outline: In recent years, the threat landscape of cyberattacks has evolved, leading to an alarming increase in their complexity and impact. Notable attacks on organizations like the HSE and Munster Technology University have underlined the critical need for robust Intrusion Detection Systems (IDS).</description>
+    </item>
+    
+    <item>
+      <title>Heart Disease Predication with Logistic Regression and Random Forest</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/post/project-13/</link>
+      <pubDate>Thu, 11 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/post/project-13/</guid>
+      <description>Outline: This project focuses on predicting heart disease using machine learning models, specifically Logistic Regression and Random Forest. It begins with an introduction to the significance of healthcare data in transforming the medical industry, reducing waiting times, and improving patient care. The research integrates four heart disease datasets and explores feature selection techniques to enhance model performance. Practical application development is emphasized, where users can input their medical data for a heart disease prediction using the best-performing model.</description>
+    </item>
+    
+    <item>
+      <title>Classifying Cats and Dogs with Machine Learning and Neural Network Models</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/post/project-12/</link>
+      <pubDate>Thu, 11 May 2023 11:13:32 -0300</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/post/project-12/</guid>
+      <description>Outline: This project aims to develop a robust image classifier that can distinguish between images of cats and dogs. The project will begin with data preprocessing, including image resizing, normalization, and label encoding. Various machine learning and neural network models, such as logistic regression, random forest, support vector machines, k-nearest neighbors, and convolutional neural networks (CNNs), will be evaluated on a smaller sample dataset. Model performance will be assessed through validation accuracy.</description>
+    </item>
+    
+    <item>
+      <title>Insights into Computer-Aided Disease Detection: A Study on Kvasir-V2 Dataset</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/post/project-10/</link>
+      <pubDate>Sat, 29 Apr 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/post/project-10/</guid>
+      <description>Outline: The project involves several key components. Firstly, the dataset is split into training, validation, and test sets, laying the foundation for model development and evaluation. Challenges related to configuration and environment setup are addressed, and a baseline model is established, distinct from existing models. The architecture and purpose of each network layer are explained in plain language, and the training curves are thoroughly analyzed. Subsequently, the project explores the impact of parameter variations on model performance, such as the number of layers, filters, and nodes in fully connected layers.</description>
+    </item>
+    
+    <item>
+      <title>ENRON Email Spam Detection Using Various Machine Learning Models</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/post/project-9/</link>
+      <pubDate>Sat, 25 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/post/project-9/</guid>
+      <description>Outline: This project aims to develop an effective email spam detection system specifically tailored for the ENRON email dataset. The project will begin with data preprocessing, where the ENRON dataset will be cleaned and structured. Next, a variety of machine learning models, including but not limited to Naïve Bayes, Random Forest, and Support Vector Machines, will be implemented to classify emails as spam or legitimate. Feature engineering and selection techniques will be employed to optimize model performance, and a comparative analysis will be conducted to evaluate the strengths and weaknesses of each model.</description>
+    </item>
+    
+    <item>
+      <title>BrainStation: </title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/post/project-2/</link>
+      <pubDate>Sat, 19 Mar 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/post/project-2/</guid>
+      <description>Outline:
+Programming Language:
+Topics:
+Brief Conclusion:
+You can view my full code and a much longer report :Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
