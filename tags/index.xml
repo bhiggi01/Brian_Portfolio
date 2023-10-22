@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Brian Higgins Portfolio</title>
+    <link>https://bhiggi01.github.io/Brian_Portfolio/tags/</link>
+    <description>Recent content in Tags on Brian Higgins Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Oct 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://bhiggi01.github.io/Brian_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cybersecurity</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/cybersecurity/</link>
+      <pubDate>Thu, 19 Oct 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/machine-learning/</link>
+      <pubDate>Thu, 19 Oct 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Networks</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/neural-networks/</link>
+      <pubDate>Thu, 19 Oct 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/python/</link>
+      <pubDate>Thu, 19 Oct 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Interface</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/user-interface/</link>
+      <pubDate>Thu, 19 Oct 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/user-interface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble Learning</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/ensemble-learning/</link>
+      <pubDate>Thu, 11 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/ensemble-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Selection</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/feature-selection/</link>
+      <pubDate>Thu, 11 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/feature-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Healthcare</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/healthcare/</link>
+      <pubDate>Thu, 11 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/healthcare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heart Disease</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/heart-disease/</link>
+      <pubDate>Thu, 11 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/heart-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logistic Regression</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/logistic-regression/</link>
+      <pubDate>Thu, 11 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/logistic-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Forest</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/random-forest/</link>
+      <pubDate>Thu, 11 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/random-forest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid Search</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/grid-search/</link>
+      <pubDate>Thu, 11 May 2023 11:13:32 -0300</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/grid-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Resizing</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/image-resizing/</link>
+      <pubDate>Thu, 11 May 2023 11:13:32 -0300</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/image-resizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K-Nearest Neighbours</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/k-nearest-neighbours/</link>
+      <pubDate>Thu, 11 May 2023 11:13:32 -0300</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/k-nearest-neighbours/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Scalability</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/model-scalability/</link>
+      <pubDate>Thu, 11 May 2023 11:13:32 -0300</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/model-scalability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Selection</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/model-selection/</link>
+      <pubDate>Thu, 11 May 2023 11:13:32 -0300</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/model-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Support Vector Machines</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/support-vector-machines/</link>
+      <pubDate>Thu, 11 May 2023 11:13:32 -0300</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/support-vector-machines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Additive</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/additive/</link>
+      <pubDate>Mon, 01 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/additive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Trends</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/analyzing-trends/</link>
+      <pubDate>Mon, 01 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/analyzing-trends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARIMA Models</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/arima-models/</link>
+      <pubDate>Mon, 01 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/arima-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classical Models</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/classical-models/</link>
+      <pubDate>Mon, 01 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/classical-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID 19</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/covid-19/</link>
+      <pubDate>Mon, 01 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Descriptive Analysis</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/descriptive-analysis/</link>
+      <pubDate>Mon, 01 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/descriptive-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting. R</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/forecasting.-r/</link>
+      <pubDate>Mon, 01 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/forecasting.-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiplication</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/multiplication/</link>
+      <pubDate>Mon, 01 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/multiplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seasonality</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/seasonality/</link>
+      <pubDate>Mon, 01 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/seasonality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stationary</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/stationary/</link>
+      <pubDate>Mon, 01 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/stationary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/time-series/</link>
+      <pubDate>Mon, 01 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/visualization/</link>
+      <pubDate>Mon, 01 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Networks</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/convolutional-neural-networks/</link>
+      <pubDate>Sat, 29 Apr 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/convolutional-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kvasir-V2 Dataset</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/kvasir-v2-dataset/</link>
+      <pubDate>Sat, 29 Apr 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/kvasir-v2-dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/r/</link>
+      <pubDate>Sat, 29 Apr 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/transfer-learning/</link>
+      <pubDate>Sat, 29 Apr 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/transfer-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EDA</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/eda/</link>
+      <pubDate>Sat, 25 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/eda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ENRON</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/enron/</link>
+      <pubDate>Sat, 25 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/enron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preprocessing</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/preprocessing/</link>
+      <pubDate>Sat, 25 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/preprocessing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spam Detection</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/spam-detection/</link>
+      <pubDate>Sat, 25 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/spam-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bar Plots</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/bar-plots/</link>
+      <pubDate>Mon, 06 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/bar-plots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Analysis</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/data-analysis/</link>
+      <pubDate>Mon, 06 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debugging</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/debugging/</link>
+      <pubDate>Mon, 06 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/debugging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edward Tufle&#39;s</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/edward-tufles/</link>
+      <pubDate>Mon, 06 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/edward-tufles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GeoPandas</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/geopandas/</link>
+      <pubDate>Mon, 06 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/geopandas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Histograms</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/histograms/</link>
+      <pubDate>Mon, 06 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/histograms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Dashboards</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/interactive-dashboards/</link>
+      <pubDate>Mon, 06 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/interactive-dashboards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel Creation</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/kernel-creation/</link>
+      <pubDate>Mon, 06 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/kernel-creation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Line Plots</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/line-plots/</link>
+      <pubDate>Mon, 06 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/line-plots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maps</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/maps/</link>
+      <pubDate>Mon, 06 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/maps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matplotlib</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/matplotlib/</link>
+      <pubDate>Mon, 06 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/matplotlib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seaborn</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/seaborn/</link>
+      <pubDate>Mon, 06 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/seaborn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dashboard</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/dashboard/</link>
+      <pubDate>Fri, 23 Dec 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/dashboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/estimation/</link>
+      <pubDate>Fri, 23 Dec 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/interactive/</link>
+      <pubDate>Fri, 23 Dec 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/interactive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monte Carle</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/monte-carle/</link>
+      <pubDate>Fri, 23 Dec 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/monte-carle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predication</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/predication/</link>
+      <pubDate>Fri, 23 Dec 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/predication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiny</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/shiny/</link>
+      <pubDate>Fri, 23 Dec 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/shiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulations</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/simulations/</link>
+      <pubDate>Fri, 23 Dec 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/simulations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/analysis/</link>
+      <pubDate>Tue, 29 Nov 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlation</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/correlation/</link>
+      <pubDate>Tue, 29 Nov 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/correlation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maternity</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/maternity/</link>
+      <pubDate>Tue, 29 Nov 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/maternity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/regression/</link>
+      <pubDate>Tue, 29 Nov 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/statistics/</link>
+      <pubDate>Tue, 29 Nov 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Descriptive Statistics</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/descriptive-statistics/</link>
+      <pubDate>Fri, 18 Nov 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/descriptive-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Engineering</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/feature-engineering/</link>
+      <pubDate>Fri, 18 Nov 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/feature-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualisation</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/visualisation/</link>
+      <pubDate>Fri, 18 Nov 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/visualisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MongoDB</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/mongodb/</link>
+      <pubDate>Tue, 01 Nov 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/mongodb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/sql/</link>
+      <pubDate>Tue, 01 Nov 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/classification/</link>
+      <pubDate>Tue, 18 Oct 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision Trees</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/decision-trees/</link>
+      <pubDate>Tue, 18 Oct 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/decision-trees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/entropy/</link>
+      <pubDate>Tue, 18 Oct 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/entropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Gain</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/information-gain/</link>
+      <pubDate>Tue, 18 Oct 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/information-gain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Forrest</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/random-forrest/</link>
+      <pubDate>Tue, 18 Oct 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/random-forrest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stocks</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/stocks/</link>
+      <pubDate>Sat, 19 Mar 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/stocks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/energy/</link>
+      <pubDate>Mon, 18 Oct 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GDP</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/gdp/</link>
+      <pubDate>Mon, 18 Oct 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/gdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renewable</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/renewable/</link>
+      <pubDate>Mon, 18 Oct 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/renewable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
