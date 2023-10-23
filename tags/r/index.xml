@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Brian Higgins Portfolio</title>
+    <link>https://bhiggi01.github.io/Brian_Portfolio/tags/r/</link>
+    <description>Recent content in R on Brian Higgins Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Apr 2023 11:13:32 -0400</lastBuildDate><atom:link href="https://bhiggi01.github.io/Brian_Portfolio/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights into Computer-Aided Disease Detection: A Study on Kvasir-V2 Dataset</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/post/project-10/</link>
+      <pubDate>Sat, 29 Apr 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/post/project-10/</guid>
+      <description>Outline: The project involves several key components. Firstly, the dataset is split into training, validation, and test sets, laying the foundation for model development and evaluation. Challenges related to configuration and environment setup are addressed, and a baseline model is established, distinct from existing models. The architecture and purpose of each network layer are explained in plain language, and the training curves are thoroughly analyzed. Subsequently, the project explores the impact of parameter variations on model performance, such as the number of layers, filters, and nodes in fully connected layers.</description>
+    </item>
+    
+    <item>
+      <title>Shiny Dashboard and Exploring Monte Carlo Simulations</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/post/project-7/</link>
+      <pubDate>Fri, 23 Dec 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/post/project-7/</guid>
+      <description>Shiny Dashboard: In this section, I developed an interactive Shiny app that facilitates data exploration and visualization of car data. The Shiny app allows users to choose any combination of two variables from the dataset and generates different types of plots based on the variable types. For numeric variables, a scatterplot is displayed. For a combination of a categorical variable and a numerical variable, a boxplot is shown. For two categorical variables, a barplot or count plot is generated.</description>
+    </item>
+    
+    <item>
+      <title>Analysis of Birth Data: Implications for Maternal Healthcare </title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/post/project-6/</link>
+      <pubDate>Tue, 29 Nov 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/post/project-6/</guid>
+      <description>Outline: This project involves a comprehensive analysis of a dataset from a maternity hospital, containing information on 250 single births, with variables like birth weight, gestational weeks, maternal age, and binary indicators for low birth weight, preterm birth, hypertension, and baby gender. The main objective is to explore the connections between birth weight and these variables. The report begins with an introduction defining the research scope, followed by descriptive statistics to characterize the data.</description>
+    </item>
+    
+    <item>
+      <title>PH Analysis: Unravelling Manufacturing Process Variations</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/post/project-5/</link>
+      <pubDate>Fri, 18 Nov 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/post/project-5/</guid>
+      <description>Outline: In this project, I analyzed time-series bioprocessing data. I cleaned the dataset, conducted exploratory data analysis, and focused on understanding the impact of various factors on the Titre attribute. This involved summarizing batches, studying Controlling DO changes, and using statistical modeling to identify variables affecting Titre.
+Programming Language: R
+Topics: Core R programming topics including Data exploration and preprocessing, Time Series Analysis, Data Visualization, Feature Engineering, Descriptive Statistics, and Animated Data Visualisation.</description>
+    </item>
+    
+    <item>
+      <title>Financial Data Analysis for Loan Approval </title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/post/project-3/</link>
+      <pubDate>Tue, 18 Oct 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/post/project-3/</guid>
+      <description>Outline: Maeve, a manager at a financial institution, contacted me and asked to determine the credit worthiness of future customers for loans. She provided 807 past loan customers with 14 attributes, such as financial standing, reason for the loan, employment, years resident in the district, etc., with a classification of each case as either good or bad loans. I performed exploratory data analysis (EDA) on the dataset, determined which attribute is the most important root node, and manually explored entropy and information using different methods.</description>
+    </item>
+    
+  </channel>
+</rss>

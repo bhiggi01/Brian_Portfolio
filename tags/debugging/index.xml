@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debugging on Brian Higgins Portfolio</title>
+    <link>https://bhiggi01.github.io/Brian_Portfolio/tags/debugging/</link>
+    <description>Recent content in Debugging on Brian Higgins Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Mar 2023 11:13:32 -0400</lastBuildDate><atom:link href="https://bhiggi01.github.io/Brian_Portfolio/tags/debugging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Visualization: Analyzing Dublin Bike Ride Data and Weather Patterns</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/post/project-8/</link>
+      <pubDate>Mon, 06 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/post/project-8/</guid>
+      <description>Outline: In this comprehensive project, Python data visualization techniques are applied to the vast and complex datasets of Dublin Bike ride data and Met Eireann weather data. The project&amp;rsquo;s core objective encompasses exploring and analyzing large datasets, harmonizing diverse datasets based on time series, and performing data cleaning using Jupyter Notebooks. Throughout the analysis, Edward Tufte&amp;rsquo;s principles for effective data presentation serve as a guide, ensuring honest data representation, optimizing the data-ink ratio by eliminating non-essential elements, and providing context for more meaningful insights.</description>
+    </item>
+    
+  </channel>
+</rss>

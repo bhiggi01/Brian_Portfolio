@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multiplication on Brian Higgins Portfolio</title>
+    <link>https://bhiggi01.github.io/Brian_Portfolio/tags/multiplication/</link>
+    <description>Recent content in Multiplication on Brian Higgins Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 May 2023 11:13:32 -0400</lastBuildDate><atom:link href="https://bhiggi01.github.io/Brian_Portfolio/tags/multiplication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COVID-19 Time Series Data: Trends, Components, and Forecasting Models</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/post/project-11/</link>
+      <pubDate>Mon, 01 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/post/project-11/</guid>
+      <description>Outline: In this project, I aim to analyze COVID-19 time series data from a range of countries, focusing on a specific variable. I&amp;rsquo;ll start with data preparation, including cleaning and transforming the data. Then, a preliminary analysis will involve exploring data patterns, decomposing time series components, and addressing seasonality. Moving on, I&amp;rsquo;ll delve into time series modeling, encompassing classical methods like exponential smoothing and advanced ARIMA modeling. This includes assessing stationarity and model selection.</description>
+    </item>
+    
+  </channel>
+</rss>

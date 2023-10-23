@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spam Detection on Brian Higgins Portfolio</title>
+    <link>https://bhiggi01.github.io/Brian_Portfolio/tags/spam-detection/</link>
+    <description>Recent content in Spam Detection on Brian Higgins Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Mar 2023 11:13:32 -0400</lastBuildDate><atom:link href="https://bhiggi01.github.io/Brian_Portfolio/tags/spam-detection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ENRON Email Spam Detection Using Various Machine Learning Models</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/post/project-9/</link>
+      <pubDate>Sat, 25 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/post/project-9/</guid>
+      <description>Outline: This project aims to develop an effective email spam detection system specifically tailored for the ENRON email dataset. The project begins with data preprocessing, where the ENRON dataset is cleaned and structured. Next, a variety of machine learning models, including but not limited to Naïve Bayes, Random Forest, and Support Vector Machines, is implemented to classify emails as spam or legitimate. Feature engineering and selection techniques are employed to optimize model performance, and a comparative analysis is conducted to evaluate the strengths and weaknesses of each model.</description>
+    </item>
+    
+  </channel>
+</rss>
