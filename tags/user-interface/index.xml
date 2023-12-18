@@ -6,15 +6,26 @@
     <description>Recent content in User Interface on Brian Higgins Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Oct 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://bhiggi01.github.io/Brian_Portfolio/tags/user-interface/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Dec 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://bhiggi01.github.io/Brian_Portfolio/tags/user-interface/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Current Project: Final Project Of Masters of Data Science and Data Analytics</title>
+      <title>Upcoming Project: Simulated Enterprise Network</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/post/project-16/</link>
+      <pubDate>Mon, 18 Dec 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/post/project-16/</guid>
+      <description>Progress: Starting in January 2024
+Outline: Beginning in January 2024, this project focuses on building a simulated enterprise network to overcome the limitations of existing cybersecurity datasets. The aim is to create a more realistic network traffic analysis environment. This simulated network will facilitate the development and testing of real-time cybersecurity models.
+Key Features:
+Developing a controlled simulated network for detailed analysis of network behaviour. Generating a historic traffic profile to serve as a base for experiments and model training.</description>
+    </item>
+    
+    <item>
+      <title>Masters Capstone: Real-Time Cyber Security Attack Detection For Network Traffic Using ML Models</title>
       <link>https://bhiggi01.github.io/Brian_Portfolio/post/project-14/</link>
-      <pubDate>Thu, 19 Oct 2023 10:58:08 -0400</pubDate>
+      <pubDate>Tue, 12 Dec 2023 10:58:08 -0400</pubDate>
       
       <guid>https://bhiggi01.github.io/Brian_Portfolio/post/project-14/</guid>
-      <description>Progress: This is my ongoing final project for my Masters in Data Science and Analytics with MTU. At this point I have completed tasks related to data cleaning, organization, preprocessing and exploratory data analysis. I will update later with my next stage, which is modelling.
-Outline: In recent years, the threat landscape of cyberattacks has evolved, leading to an alarming increase in their complexity and impact. Notable attacks on organizations like the HSE and Munster Technology University have underlined the critical need for robust Intrusion Detection Systems (IDS).</description>
+      <description>Outline: The project responded to the growing number of cyberattacks like those seen with the HSE and MTU, which pose a significant threat to individuals and organisations. It&amp;rsquo;s core objective was to strengthen IDS by integrating Machine Learning Models to focus on real-time attack detection. The research was ground breaking in its comparative analysis of different Machine Learning models using data from the Canadian Institute of Cybersecurity. The architecture leveraged baseline models and Apache Kafka for real-time data processing to deploy various ML model at threat detection.</description>
     </item>
     
     <item>

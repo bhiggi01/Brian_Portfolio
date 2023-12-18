@@ -6,20 +6,29 @@
     <description>Recent content in Tags on Brian Higgins Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Oct 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://bhiggi01.github.io/Brian_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Dec 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://bhiggi01.github.io/Brian_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cybersecurity</title>
       <link>https://bhiggi01.github.io/Brian_Portfolio/tags/cybersecurity/</link>
-      <pubDate>Thu, 19 Oct 2023 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 18 Dec 2023 10:58:08 -0400</pubDate>
       
       <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/cybersecurity/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Data Analytics</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/data-analytics/</link>
+      <pubDate>Mon, 18 Dec 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/data-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine Learning</title>
       <link>https://bhiggi01.github.io/Brian_Portfolio/tags/machine-learning/</link>
-      <pubDate>Thu, 19 Oct 2023 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 18 Dec 2023 10:58:08 -0400</pubDate>
       
       <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/machine-learning/</guid>
       <description></description>
@@ -28,16 +37,25 @@
     <item>
       <title>Neural Networks</title>
       <link>https://bhiggi01.github.io/Brian_Portfolio/tags/neural-networks/</link>
-      <pubDate>Thu, 19 Oct 2023 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 18 Dec 2023 10:58:08 -0400</pubDate>
       
       <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/neural-networks/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Power BI</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/power-bi/</link>
+      <pubDate>Mon, 18 Dec 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Python</title>
       <link>https://bhiggi01.github.io/Brian_Portfolio/tags/python/</link>
-      <pubDate>Thu, 19 Oct 2023 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 18 Dec 2023 10:58:08 -0400</pubDate>
       
       <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/python/</guid>
       <description></description>
@@ -46,9 +64,18 @@
     <item>
       <title>User Interface</title>
       <link>https://bhiggi01.github.io/Brian_Portfolio/tags/user-interface/</link>
-      <pubDate>Thu, 19 Oct 2023 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 18 Dec 2023 10:58:08 -0400</pubDate>
       
       <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/user-interface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualisation</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/visualisation/</link>
+      <pubDate>Mon, 18 Dec 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/visualisation/</guid>
       <description></description>
     </item>
     
@@ -571,15 +598,6 @@
       <pubDate>Fri, 18 Nov 2022 11:13:32 -0400</pubDate>
       
       <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/feature-engineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visualisation</title>
-      <link>https://bhiggi01.github.io/Brian_Portfolio/tags/visualisation/</link>
-      <pubDate>Fri, 18 Nov 2022 11:13:32 -0400</pubDate>
-      
-      <guid>https://bhiggi01.github.io/Brian_Portfolio/tags/visualisation/</guid>
       <description></description>
     </item>
     

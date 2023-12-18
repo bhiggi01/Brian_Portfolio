@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Power BI on Brian Higgins Portfolio</title>
+    <link>https://bhiggi01.github.io/Brian_Portfolio/tags/power-bi/</link>
+    <description>Recent content in Power BI on Brian Higgins Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 18 Dec 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://bhiggi01.github.io/Brian_Portfolio/tags/power-bi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In Progress: Advanced Data Visualization and Analysis: Power BI Project Showcase</title>
+      <link>https://bhiggi01.github.io/Brian_Portfolio/post/project-15/</link>
+      <pubDate>Mon, 18 Dec 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhiggi01.github.io/Brian_Portfolio/post/project-15/</guid>
+      <description>Outline: This project will showcase my expertise in Data Analytics and Data Science though the lens of Power BI. The primary goal is to demonstrate advanced skills in data Visualisation and analytics using Power BI to transform complex datasets into insightful and interactive visual stories.
+This project is in progress and will be updated shortly.
+Programming Language: Power BI
+Topics: Power BI, Visualisation
+This project is still on going and will be updated shortly.</description>
+    </item>
+    
+  </channel>
+</rss>

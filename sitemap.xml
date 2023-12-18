@@ -2,48 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bhiggi01.github.io/Brian_Portfolio/tags/cybersecurity/</loc>
+    <lastmod>2023-12-18T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://bhiggi01.github.io/Brian_Portfolio/tags/data-analytics/</loc>
+    <lastmod>2023-12-18T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://bhiggi01.github.io/Brian_Portfolio/</loc>
-    <lastmod>2023-10-20T12:00:00-05:00</lastmod>
+    <lastmod>2023-12-18T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://bhiggi01.github.io/Brian_Portfolio/post/project-15/</loc>
+    <lastmod>2023-12-18T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://bhiggi01.github.io/Brian_Portfolio/tags/machine-learning/</loc>
+    <lastmod>2023-12-18T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://bhiggi01.github.io/Brian_Portfolio/tags/neural-networks/</loc>
+    <lastmod>2023-12-18T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://bhiggi01.github.io/Brian_Portfolio/tags/power-bi/</loc>
+    <lastmod>2023-12-18T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://bhiggi01.github.io/Brian_Portfolio/tags/python/</loc>
+    <lastmod>2023-12-18T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://bhiggi01.github.io/Brian_Portfolio/tags/</loc>
+    <lastmod>2023-12-18T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://bhiggi01.github.io/Brian_Portfolio/post/project-16/</loc>
+    <lastmod>2023-12-18T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://bhiggi01.github.io/Brian_Portfolio/tags/user-interface/</loc>
+    <lastmod>2023-12-18T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://bhiggi01.github.io/Brian_Portfolio/tags/visualisation/</loc>
+    <lastmod>2023-12-18T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://bhiggi01.github.io/Brian_Portfolio/post/project-14/</loc>
+    <lastmod>2023-12-12T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://bhiggi01.github.io/Brian_Portfolio/post/</loc>
     <lastmod>2023-10-20T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://bhiggi01.github.io/Brian_Portfolio/post/project-14/</loc>
-    <lastmod>2023-10-19T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://bhiggi01.github.io/Brian_Portfolio/tags/cybersecurity/</loc>
-    <lastmod>2023-10-19T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://bhiggi01.github.io/Brian_Portfolio/tags/machine-learning/</loc>
-    <lastmod>2023-10-19T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://bhiggi01.github.io/Brian_Portfolio/tags/neural-networks/</loc>
-    <lastmod>2023-10-19T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://bhiggi01.github.io/Brian_Portfolio/tags/python/</loc>
-    <lastmod>2023-10-19T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://bhiggi01.github.io/Brian_Portfolio/tags/</loc>
-    <lastmod>2023-10-19T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://bhiggi01.github.io/Brian_Portfolio/tags/user-interface/</loc>
-    <lastmod>2023-10-19T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -378,11 +403,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://bhiggi01.github.io/Brian_Portfolio/post/project-5/</loc>
-    <lastmod>2022-11-18T11:13:32-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://bhiggi01.github.io/Brian_Portfolio/tags/visualisation/</loc>
     <lastmod>2022-11-18T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
