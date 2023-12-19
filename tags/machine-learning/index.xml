@@ -25,7 +25,7 @@ Developing a controlled simulated network for detailed analysis of network behav
       <pubDate>Tue, 12 Dec 2023 10:58:08 -0400</pubDate>
       
       <guid>https://bhiggi01.github.io/Brian_Portfolio/post/project-14/</guid>
-      <description>Outline: The project responded to the growing number of cyberattacks like those seen with the HSE and MTU, which pose a significant threat to individuals and organisations. It&amp;rsquo;s core objective was to strengthen IDS by integrating Machine Learning Models to focus on real-time attack detection. The research was ground breaking in its comparative analysis of different Machine Learning models using data from the Canadian Institute of Cybersecurity. The architecture leveraged baseline models and Apache Kafka for real-time data processing to deploy various ML model at threat detection.</description>
+      <description>Outline: For my Masters in Data Science and Analytics Capstone Project I wanted to respond to the growing number of cyberattacks like those seen with the HSE and MTU over the last few years. These attacks pose a significant threat to individuals and organisations. The projects core objective was to strengthen IDS systems by integrating Machine Learning Models to focus on real-time attack detection. This research compared the performance of various supervised and unsupervised ML models to detect attack instances using data from the Canadian Institute of Cybersecurity.</description>
     </item>
     
     <item>
